@@ -29,7 +29,7 @@ También puedes ejecutar las pruebas con:
 
 ## Autor
 
-Borja Cañadas Ortega
+Borja C.O.
 
 ## Licencia
 
