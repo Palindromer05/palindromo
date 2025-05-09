@@ -2,6 +2,8 @@
 
 Este proyecto permite comprobar si una frase o número es un **palíndromo**. Ignorando acentos, signos y espacios.
 
+Es un proyecto para la asignatura de PUESTA EN PRODUCCIÓN SEGURA.
+
 ## Tecnologías utilizadas
 
 - Lenguaje: Python 3
